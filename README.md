@@ -1,1 +1,1 @@
-Redux Simple Starter
+README
